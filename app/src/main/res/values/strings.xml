@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SubmissionMovieBeginnerAndroid</string>
+    <string name="movies_name">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="movies_year">2002</string>
+    <string name="rated">PG-13</string>
+    <string name="duration">128 min</string>
+    <string name="release_date">12 March 2003</string>
+    <string name="genre">Action, Adventure, Fantasy</string>
+    <string name="plot">A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.</string>
+    <string name="actors">Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang</string>
+    <string name="director">Ichlasul Fikri</string>
+    <string name="writer">Ichlasul Putra</string>
+    <string name="langugae">English, Spanish</string>
+    <string name="label_actors">Actors : </string>
+
+    <string name="about">About</string>
+    <string name="name_about">Ichlasul Fikri Astamar Putra</string>
+    <string name="email_about">ichlasul.ap@gmail.com</string>
+    <string name="label_synopsis">Synopsis: </string>
+    <string name="img_movie_desc">Movie Clip Thumbnail</string>
+    <string name="label_director">Director:</string>
+    <string name="label_writer">Writer :</string>
+    <string name="label_imdb_rating">IMDB Rating:</string>
+    <string name="label_share">Share</string>
+</resources>
